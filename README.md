@@ -26,6 +26,8 @@ topic demo
 
 {"username" : "Rahul", "password" : "1234", "age" : "32"}
 
+https://www.youtube.com/watch?v=BwYFuhVhshI
+
 https://www.youtube.com/watch?v=Ht7Nonpylr0&list=PLGRDMO4rOGcNLwoack4ZiTyewUcF6y6BU&index=10
 
 https://medium.com/@issa.khodadadi88/implementing-kafka-producer-and-consumer-in-spring-boot-75796f0ce242
